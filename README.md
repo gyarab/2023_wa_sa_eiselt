@@ -5,3 +5,6 @@ Tim Eiselt 3.E
 
 > [!WARNING]
 > nevim co sem napsat
+
+Nevíte co doma hrát když se nudíte ?
+***Běžte na server FiveM server Lime RP***
