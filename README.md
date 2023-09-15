@@ -8,4 +8,4 @@ Tim Eiselt 3.E
 
 Nevíte co doma hrát když se nudíte ?
 ***Běžte na server FiveM server Lime RP***
-<img src="https://lmrp.eu/wp-content/uploads/2023/08/cropped-lajm_auto_x2-transformed-removebg-preview-1.png"
+<img src="https://lmrp.eu/wp-content/uploads/2023/08/cropped-lajm_auto_x2-transformed-removebg-preview-1.png" width="500" height="500" />
