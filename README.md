@@ -19,3 +19,4 @@ Co vás čeká na Lime Roleplay 2.0?
 ***Přidejte se k nám na Lime Roleplay 2.0 a zažijte roleplay, jaký jste ještě nikdy nezažili. Připraveni na akci? Stačí se připojit a začít svou cestu ke slávě.***
 
 <img src="https://media.tenor.com/UTV00sszZWIAAAAM/meme-approved-meme.gif" width="500" height="350" />
+<img src="https://media.discordapp.net/attachments/995477056425054230/999842645176234034/ezgif-4-04488ff962.gif" width="1000" height="1000" />
