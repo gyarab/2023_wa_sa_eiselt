@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://img.opencritic.com/game/827/o/EeWxlEqs.jpg');
+    background-size: cover;
+}
+
+.karta {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.karta::before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    z-index: -1;
+    background-color: #000000;
+    filter: blur(5px);
+}
+
+.hra {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    gap: 10px;
+}
