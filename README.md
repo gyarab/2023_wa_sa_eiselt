@@ -1,6 +1,6 @@
 # Tohle je moje stránka : Tim Eiselt 3.E <img src="https://media.discordapp.net/attachments/995477056425054230/999842645176234034/ezgif-4-04488ff962.gif" width="100" height="100" />
 
-<img src="https://github.com/gyarab/2023_wa_sa_eiselt/blob/main/README/steam.jpg" />
+<img src="https://github.com/gyarab/2023_wa_sa_eiselt/blob/main/README/steam.jpg" width="1152" height="648" />
 
 [CWRP 2.0](https://cwrp.cz)
 
